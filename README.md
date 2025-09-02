@@ -12,3 +12,6 @@ The following are my friends
 **She is very close to my heart**
 _I want to go home, I miss my mami alot_
 **_Hello_**
+* hi
+* hello
+* bye
